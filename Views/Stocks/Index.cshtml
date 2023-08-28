@@ -1,0 +1,43 @@
+﻿@model StocksViewModel
+@using StocksEntities
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stocks</title>
+</head>
+
+<body>
+    <h1>Stocks</h1>
+    <table border=1>
+        <tr>
+            <th>Ticker</th>
+            <th>Sector</th>
+            <th> </th>
+            <th> </th>
+            <th> </th>
+        </tr>
+        @foreach (Stocks stock in @Model.Stocks)
+        {
+            @foreach (OHLC ohlc in @Model.OHLC)
+            {
+                @if(@stock.Symbol == @ohlc.Symbol){
+                    <tr>
+                        <td>@ohlc.Symbol</td>
+                        <td>@ohlc.close</td>
+                        <td>details</td>
+                        <td>update</td>
+                        <td>delete</td>
+                    </tr>
+                }
+                
+            }
+            
+        }
+    </table>
+</body>
+
+</html>
