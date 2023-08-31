@@ -1,4 +1,4 @@
-﻿@model StocksViewModel
+﻿@model AssetViewModel
 @using StocksEntities
 <!DOCTYPE html>
 <html lang="en">
@@ -11,15 +11,12 @@
 </head>
 
 <body>
-    <h1>Stocks</h1>
-    <ul>
-        @foreach (Stocks stock in @Model.Stocks)
-        {
-            <li>
-                <a href="~/Asset/Index/@stock.Symbol" style="color: green;">@stock.Symbol</a>
-            </li>
+    <h2>@Model.assetName @Model.ticker</h2>
+    <ol>
+        @foreach (OHLC ohlc in @Model.OHLC){
+                <li>@ohlc.date @ohlc.open @ohlc.high @ohlc.low @ohlc.close</li>
         }
-    </ul>
+    </ol>
     
 </body>
 

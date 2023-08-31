@@ -20,7 +20,7 @@ namespace StocksEntities
     {
         [Key]
         public Int32 entryID { get; set; }
-        public Int32 date { get; set; }
+        public String date { get; set; }
         public float open { get; set; }
         public float high { get; set; }
         public float low { get; set; }
