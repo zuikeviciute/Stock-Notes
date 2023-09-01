@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1xqBnPSIwqqQLMNBpP4bqgk20enkXbpZkQJvqUuR5oA=",
+  "Hash": "9otTBo/jfsax3SaPad48mJ63G+VzrpQx4iap/z0Fac4=",
   "Source": "stock notes",
   "BasePath": "_content/stock notes",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\js\\LineGraph.js",
+      "SourceId": "stock notes",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "BasePath": "_content/stock notes",
+      "RelativePath": "js/LineGraph.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\LineGraph.js"
     },
     {
       "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\js\\site.js",

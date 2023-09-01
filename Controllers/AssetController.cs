@@ -17,6 +17,8 @@ namespace stock_notes.Controllers
         {
             AssetViewModel model = new AssetViewModel();
             StocksDatabase db = new StocksDatabase();
+            LinkedList<String> date = new LinkedList<string>();
+            LinkedList<float> close = new LinkedList<float>();
 
             //model.Stocks = db.Stocks.ToList();
             //model.OHLC = db.OHLC.ToList();
@@ -24,6 +26,16 @@ namespace stock_notes.Controllers
             model.OHLC = db.OHLC.Where(f => f.Symbol == id).ToList();
             model.assetName = db.Stocks.Single(f => f.Symbol == id).Security;
             model.ticker = id;
+
+            foreach (OHLC ohlc in db.OHLC)
+            {
+                close.AddLast(ohlc.close);
+                date.AddLast(ohlc.date);
+            }
+
+            model.date = date;
+            model.close = close;
+            
             return View(model);
         }
     }
