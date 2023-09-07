@@ -11,7 +11,7 @@ namespace stock_notes.Models
     [DataContract]
     public class DataPointViewModel
     {
-        public DataPointViewModel(float x, float y)
+        public DataPointViewModel(DateOnly x, float y)
         {
             this.X = x;
             this.Y = y;
@@ -19,7 +19,7 @@ namespace stock_notes.Models
 
         //Explicitly setting the name to be used while serializing to JSON.
         [DataMember(Name = "x")]
-        public Nullable<float> X = null;
+        public Nullable<DateOnly> X = null;
 
         //Explicitly setting the name to be used while serializing to JSON.
         [DataMember(Name = "y")]
