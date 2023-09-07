@@ -4,47 +4,42 @@
 <html lang="en">
 
 <head>
-    <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stocks</title>
+	<script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Stocks</title>
 </head>
 
 <body>
-    <h2>@Model.assetName @Model.ticker</h2>
+	<h2>@Model.assetName @Model.ticker</h2>
 
-    <div id="chartContainer"></div>
-    <script type="text/javascript">
- 
-	window.onload = function () {
-		var chart = new CanvasJS.Chart("chartContainer", {
-			theme: "light2",
-			animationEnabled: true,
-			title: {
-				text: "£348.98"
-			},
-			subtitles: [
-				{ text: "NVDA" }
-			],
-			data: [
-			{
-                labels: @Model.date,
-				type: "line", //change type to bar, line, area, pie, etc
-                data: @Model.close
+	<div id="chartContainer"></div>
+	<script type="text/javascript">
+
+		window.onload = function () {
+			var chart = new CanvasJS.Chart("chartContainer", {
+				theme: "light2",
+				animationEnabled: true,
+				data: [
+					{
+						type: "line", //change type to bar, line, area, pie, etc
+						dataPoints: @Html.Raw(ViewBag.DataPoints)
 			}
-			]
-		});
-		chart.render();
-	};
-</script>
+				]
+			});
+			chart.render();
+		};
+	</script>
+	<div>
+		<ol>
+			@foreach (OHLC ohlc in @Model.OHLC)
+			{
+				<li>@ohlc.date @ohlc.open @ohlc.high @ohlc.low @ohlc.close</li>
+			}
+		</ol>
+	</div>
 
-    <ol>
-        @foreach (OHLC ohlc in @Model.OHLC)
-        {
-            <li>@ohlc.date @ohlc.open @ohlc.high @ohlc.low @ohlc.close</li>
-        }
-    </ol>
 </body>
 
 </html>

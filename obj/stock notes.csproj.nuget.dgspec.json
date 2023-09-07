@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\stock notes.csproj": {}
+    "G:\\GitHub\\Stock-Notes\\stock notes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\stock notes.csproj": {
+    "G:\\GitHub\\Stock-Notes\\stock notes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\stock notes.csproj",
+        "projectUniqueName": "G:\\GitHub\\Stock-Notes\\stock notes.csproj",
         "projectName": "stock notes",
-        "projectPath": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\stock notes.csproj",
+        "projectPath": "G:\\GitHub\\Stock-Notes\\stock notes.csproj",
         "packagesPath": "C:\\Users\\lil-nib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\obj\\",
+        "outputPath": "G:\\GitHub\\Stock-Notes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,14 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.3, )"
             }
           },
           "imports": [

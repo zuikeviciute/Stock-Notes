@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9otTBo/jfsax3SaPad48mJ63G+VzrpQx4iap/z0Fac4=",
+  "Hash": "SQvc+6iBZpPck17fxlkjnKVgGMMOWiYQQuCQNZWr8so=",
   "Source": "stock notes",
   "BasePath": "_content/stock notes",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "stock notes\\wwwroot",
       "Source": "stock notes",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\css\\site.css",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\css\\site.css",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\favicon.ico",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\favicon.ico",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -51,27 +51,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\js\\LineGraph.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\js\\site.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
-      "BasePath": "_content/stock notes",
-      "RelativePath": "js/LineGraph.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\LineGraph.js"
-    },
-    {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\js\\site.js",
-      "SourceId": "stock notes",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -85,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -102,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -119,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -136,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -153,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -170,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -187,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -204,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -221,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -238,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -255,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -272,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -289,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -306,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -323,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -340,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -357,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -374,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -391,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -408,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -425,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -442,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -459,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -476,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -493,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -510,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -527,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -544,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -561,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -578,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -595,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -612,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -629,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "G:\\GitHub\\Stock-Notes\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "stock notes",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lil-nib\\Desktop\\apply\\stock notes\\wwwroot\\",
+      "ContentRoot": "G:\\GitHub\\Stock-Notes\\wwwroot\\",
       "BasePath": "_content/stock notes",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

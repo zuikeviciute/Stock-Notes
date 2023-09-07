@@ -13,7 +13,5 @@ namespace stock_notes.Models
         public List<OHLC> OHLC {get; set;}
         public String assetName {get; set;}
         public String ticker {get; set;}
-        public LinkedList<String> date {get; set;}
-        public LinkedList<float> close {get; set;}
     }
 }

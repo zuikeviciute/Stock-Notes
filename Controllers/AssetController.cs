@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Newtonsoft.Json;
 
 using stock_notes.Models;
 using StocksEntities;
 using StocksContext;
+using System.Reflection.Emit;
 
 namespace stock_notes.Controllers
 {
@@ -17,8 +19,6 @@ namespace stock_notes.Controllers
         {
             AssetViewModel model = new AssetViewModel();
             StocksDatabase db = new StocksDatabase();
-            LinkedList<String> date = new LinkedList<string>();
-            LinkedList<float> close = new LinkedList<float>();
 
             //model.Stocks = db.Stocks.ToList();
             //model.OHLC = db.OHLC.ToList();
@@ -27,14 +27,13 @@ namespace stock_notes.Controllers
             model.assetName = db.Stocks.Single(f => f.Symbol == id).Security;
             model.ticker = id;
 
-            foreach (OHLC ohlc in db.OHLC)
-            {
-                close.AddLast(ohlc.close);
-                date.AddLast(ohlc.date);
-            }
+            List<DataPointViewModel> dataPoints = new List<DataPointViewModel>();
 
-            model.date = date;
-            model.close = close;
+            foreach(OHLC ohlc in model.OHLC){
+                dataPoints.Add(new DataPointViewModel(ohlc.date.Ticks, ohlc.close));
+            }
+ 
+			ViewBag.DataPoints = JsonConvert.SerializeObject(dataPoints);
             
             return View(model);
         }
