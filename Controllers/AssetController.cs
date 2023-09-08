@@ -30,7 +30,9 @@ namespace stock_notes.Controllers
             List<DataPointViewModel> dataPoints = new List<DataPointViewModel>();
 
             foreach(OHLC ohlc in model.OHLC){
-                dataPoints.Add(new DataPointViewModel(ohlc.date, ohlc.close));
+                if(ohlc.date.Year == 2023){
+                    dataPoints.Add(new DataPointViewModel(ohlc.date.Ticks, ohlc.close, ohlc.date));
+                }
             }
  
 			ViewBag.DataPoints = JsonConvert.SerializeObject(dataPoints);

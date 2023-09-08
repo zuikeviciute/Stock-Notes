@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = stock_notes
 build_property.RootNamespace = stock_notes
-build_property.ProjectDir = g:\GitHub\Stock-Notes\
+build_property.ProjectDir = G:\GitHub\Stock-Notes\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = g:\GitHub\Stock-Notes
+build_property.MSBuildProjectDirectory = G:\GitHub\Stock-Notes
 build_property._RazorSourceGeneratorDebug = 
 
-[g:/GitHub/Stock-Notes/Views/Asset/Index.cshtml]
+[G:/GitHub/Stock-Notes/Views/Asset/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/GitHub/Stock-Notes/Views/Home/Index.cshtml]
+[G:/GitHub/Stock-Notes/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/GitHub/Stock-Notes/Views/Home/Privacy.cshtml]
+[G:/GitHub/Stock-Notes/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/GitHub/Stock-Notes/Views/Shared/Error.cshtml]
+[G:/GitHub/Stock-Notes/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/GitHub/Stock-Notes/Views/Shared/_Layout.cshtml]
+[G:/GitHub/Stock-Notes/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/GitHub/Stock-Notes/Views/Shared/_ValidationScriptsPartial.cshtml]
+[G:/GitHub/Stock-Notes/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/GitHub/Stock-Notes/Views/Stocks/Index.cshtml]
+[G:/GitHub/Stock-Notes/Views/Stocks/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/GitHub/Stock-Notes/Views/_ViewImports.cshtml]
+[G:/GitHub/Stock-Notes/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/GitHub/Stock-Notes/Views/_ViewStart.cshtml]
+[G:/GitHub/Stock-Notes/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
