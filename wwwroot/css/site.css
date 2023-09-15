@@ -71,6 +71,7 @@ body {
 }
 
 ul{
+  list-style: none;
   list-style-type: none;
   -webkit-columns: 9;
   -moz-columns: 9;
@@ -79,7 +80,25 @@ ul{
   align-items: center;
 }
 
+ul li {list-style-type: none;}
+
 #chartContainer{
   max-width: 700;
   max-height: 500;
+}
+
+#rounded{
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 1px solid #e3e3e3;
+  background-color: #e3e3e3;
+}
+
+#tickers{
+  display: inline;
+}
+
+#symbol-link{
+  padding-right: 10px;
 }

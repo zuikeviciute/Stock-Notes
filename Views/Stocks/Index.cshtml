@@ -11,16 +11,18 @@
 </head>
 
 <body>
-    <h1>Stocks</h1>
-    <ul>
-        @foreach (Stocks stock in @Model.Stocks)
+    <div style="color: gray;"> this project is currently a work in progress, more stocks will be available in the future with live data
+    </div>
+    <div id="tickers">
+    @foreach (Stocks stock in @Model.Stocks)
+    {
+        @if (stock.Symbol == "NVDA" || stock.Symbol == "BA" || stock.Symbol == "UPS" || stock.Symbol == "RTX")
         {
-            <li>
-                <a href="~/Asset/Index/@stock.Symbol" style="color: green;">@stock.Symbol</a>
-            </li>
+            <a id="symbol-link" href="~/Asset/Index/@stock.Symbol" style="color: green;">@stock.Symbol $356.78</a>
+            
         }
-    </ul>
-    
+    }
+</div>
 </body>
 
 </html>
