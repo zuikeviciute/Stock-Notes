@@ -83,8 +83,7 @@ ul{
 ul li {list-style-type: none;}
 
 #chartContainer{
-  max-width: 700;
-  max-height: 500;
+  display: flex;
 }
 
 #rounded{
@@ -95,10 +94,24 @@ ul li {list-style-type: none;}
   background-color: #e3e3e3;
 }
 
-#tickers{
-  display: inline;
-}
-
 #symbol-link{
   padding-right: 10px;
+}
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 80%;
+  flex-shrink: 3;
+}
+
+#columns{
+  flex-direction: row;
+  flex-wrap: nowrap;
 }

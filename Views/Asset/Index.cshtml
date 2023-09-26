@@ -12,36 +12,36 @@
 </head>
 
 <body>
-	<h2>@Model.assetName @Model.ticker</h2>
+	<h4>@Model.assetName <small>@Model.ticker</small></h4>
 
-	<div id="chartContainer" style="height: 370px; width: 100%;"></div>
-	<script type="text/javascript">
+	<div id="columns">
+		<div class="column">
+			<p>p</p>
+		</div>
+		<div id="chartContainer" class="column" style="height: 320px; width: 100%;">
+		<script type="text/javascript">
 
-		window.onload = function () {
-			var chart = new CanvasJS.Chart("chartContainer", {
-				theme: "light2",
-				animationEnabled: true,
-				axisX: {
-					valueFormatString: "####"
-				},
-				data: [
-					{
-						type: "line", //change type to bar, line, area, pie, etc
-						dataPoints: @Html.Raw(ViewBag.DataPoints)
+			window.onload = function () {
+				var chart = new CanvasJS.Chart("chartContainer", {
+					theme: "light2",
+					animationEnabled: true,
+					axisX: {
+						valueFormatString: "####"
+					},
+					data: [
+						{
+							type: "line", //change type to bar, line, area, pie, etc
+							dataPoints: @Html.Raw(ViewBag.DataPoints)
 			}
-				]
-			});
-			chart.render();
-		};
-	</script>
-	<div>
-		<ol>
-			@foreach (OHLC ohlc in @Model.OHLC)
-			{
-				<li>@ohlc.date @ohlc.open @ohlc.high @ohlc.low @ohlc.close</li>
-			}
-		</ol>
+					]
+				});
+				chart.render();
+			};
+		</script>
+		</div>
 	</div>
+
+
 
 </body>
 
