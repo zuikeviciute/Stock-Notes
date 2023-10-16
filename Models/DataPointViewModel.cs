@@ -11,7 +11,7 @@ namespace stock_notes.Models
     [DataContract]
     public class DataPointViewModel
     {
-        public DataPointViewModel(long x, float y, DateTime label)
+        public DataPointViewModel(long x, float y, string label)
         {
             this.X = x;
             this.Y = y;
@@ -27,6 +27,6 @@ namespace stock_notes.Models
         public Nullable<float> Y = null;
 
         [DataMember(Name = "label")]
-        public Nullable<DateTime> Label = null;
+        public string Label = null;
     }
 }

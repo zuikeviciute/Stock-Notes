@@ -16,10 +16,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = G:\GitHub\Stock-Notes
 build_property._RazorSourceGeneratorDebug = 
 
-[G:/GitHub/Stock-Notes/Views/Asset/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [G:/GitHub/Stock-Notes/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [G:/GitHub/Stock-Notes/Views/Stocks/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/GitHub/Stock-Notes/Views/Stocks/Selected.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tzXFNlbGVjdGVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [G:/GitHub/Stock-Notes/Views/_ViewImports.cshtml]

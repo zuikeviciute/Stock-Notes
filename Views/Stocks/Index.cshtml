@@ -18,7 +18,7 @@
     {
         @if (stock.Symbol == "NVDA" || stock.Symbol == "BA" || stock.Symbol == "UPS" || stock.Symbol == "RTX")
         {
-            <a id="symbol-link" href="~/Asset/Index/@stock.Symbol" style="color: green;">@stock.Symbol $356.78</a>
+            <a id="symbol-link" href="~/Stocks/Selected/@stock.Symbol" style="color: green;">@stock.Symbol @Model.closePrice</a>
             
         }
     }

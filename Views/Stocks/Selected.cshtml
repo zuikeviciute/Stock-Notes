@@ -1,4 +1,4 @@
-﻿@model AssetViewModel
+﻿@model StocksViewModel
 @using StocksEntities
 <!DOCTYPE html>
 <html lang="en">
@@ -16,7 +16,7 @@
 
 	<div id="columns">
 		<div class="column">
-			<p>p</p>
+			<p>@Model.ticker @Model.closePrice</p>
 		</div>
 		<div id="chartContainer" class="column" style="height: 320px; width: 100%;">
 		<script type="text/javascript">
